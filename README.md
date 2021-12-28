@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuakurniawand
-- 👀 I’m interested in Data Science and Big Data Technology
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science and Big Data Technology
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me LinkedIn: @joshuakurniawand
 
